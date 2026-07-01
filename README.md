@@ -47,7 +47,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='Animation.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with Online MP4 to GIF Converter: 
+GIF created with Online MP4 to GIF Converter: Cloudconvert.com
 
 ## Notes
 
